@@ -1,2 +1,4 @@
 models
 sbi-logs
+*.pkl
+*.csv
