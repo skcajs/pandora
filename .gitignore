@@ -2,3 +2,4 @@ models
 sbi-logs
 *.pkl
 *.csv
+.venv
