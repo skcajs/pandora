@@ -1,6 +1,19 @@
 # Pandora
 
-This repository collects research notebooks exploring dynamic system modelling, parameter estimation, and simulation-based inference techniques. All examples are implemented in Python using Jupyter notebooks and rely on libraries such as NumPy, PyTorch and the `sbi` package.
+This repository collects research notebooks developed for my Master's Thesis at NTNU, exploring dynamic system modelling, parameter estimation, and simulation-based inference techniques. All examples are implemented in Python using Jupyter notebooks and rely on libraries such as NumPy, PyTorch and the `sbi` package.
+
+## Dependencies
+
+This project relies on several Python packages for scientific computing, deep learning, and simulation-based inference:
+
+- **sbi** - Simulation-based inference framework
+- **PyTorch** - Deep learning library
+- **NumPy** - Numerical computing
+- **Pandas** - Data analysis and manipulation
+- **Matplotlib** - Data visualization
+- **FEniCS** - Finite element method solver
+
+Most of the dependencies are bundled with the `sbi` package installation, but you may need to install FEniCS separately depending on your environment.
 
 ## Notebooks
 
