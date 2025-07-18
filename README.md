@@ -1,6 +1,6 @@
 # Pandora
 
-This repository collects research notebooks developed for my Master's Thesis at NTNU, exploring dynamic system modelling, parameter estimation, and simulation-based inference techniques. All examples are implemented in Python using Jupyter notebooks and rely on libraries such as NumPy, PyTorch and the `sbi` package.
+This repository collects research notebooks developed for my Master's Thesis in Simulation and Visualisation at NTNU, exploring dynamic system modelling, parameter estimation, and simulation-based inference techniques. All examples are implemented in Python using Jupyter notebooks and rely on libraries such as NumPy, PyTorch and the `sbi` package. There is no particular order to it, just a collection of notebooks.
 
 ## Dependencies
 
@@ -32,6 +32,6 @@ The `notebooks` directory is organised into several subfolders:
    ```
    pip install -r requirements.txt
    ```
-3. Launch Jupyter and open any notebook from the `notebooks` directory.
+3. Jupyter Notebooks is not required, you can open any notebook from the `notebooks` directory and run it directly in VSCode.
 
 The repository is intended as a sandbox for different modelling and inference strategies. Feel free to explore and adapt the notebooks for your own experiments.
